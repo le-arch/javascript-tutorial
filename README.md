@@ -1,1 +1,1 @@
-#javascript titorials
+#javascript tutorials
