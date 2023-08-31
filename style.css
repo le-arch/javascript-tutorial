@@ -32,9 +32,9 @@ button {
 
 button {
 	background: none;
-	border: 0;
+	border: 2px;
 	color: #888;
-	font-size: 15px;
+	font-size: 19px;
 	width: 100px;
 	margin: 10px 0 0;
 	font-family: Lato, sans-serif;
@@ -50,7 +50,7 @@ h3,
 label[for='new-task'] {
 	color: #333;
 	font-weight: 700;
-	font-size: 15px;
+	font-size: 20px;
 	border-bottom: 2px solid #333;
 	padding: 30px 0 10px;
 	margin: 0;
